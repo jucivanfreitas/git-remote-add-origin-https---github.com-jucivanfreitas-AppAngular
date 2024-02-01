@@ -3,3 +3,9 @@ https://github.com/jucivanfreitas/AppAngular.git
 
 git branch -M main
 git push -u origin main
+
+para commitar no git
+
+bash:git commit -m "twoo "
+
+dist\criptodatavisio
